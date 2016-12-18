@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=concert
+comment0.target=ConcertWindow(model.Concert)
+comment1.params=
+comment1.target=void\ setup()
+comment2.params=concert
+comment2.target=void\ build(model.Concert)
+numComments=3
